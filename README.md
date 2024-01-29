@@ -1,2 +1,2 @@
 # Lab_CD
-Atividades realizadas na UC Laboratório de circuitos digitaia
+Atividades realizadas na UC Laboratório de circuitos digitaiS
